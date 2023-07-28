@@ -1,7 +1,7 @@
 # image
 
-![fb](./images/fb.jpg)
+![fb](./images/fb-rescale.jpg)
 
-![ytb](./images/ytb.jpg)
+![ytb](images/yt-resacle.jpg)
 
-![tiktok](./images/tiktok.jpg)
+![tiktok](./images/tt-resacle.jpg)
